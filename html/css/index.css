@@ -1,0 +1,8 @@
+html,body{
+	/*background:#777;*/
+	height:100%;
+}
+.container h1{
+	width:800px;
+	margin:50px auto;
+}
